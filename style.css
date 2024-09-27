@@ -6,7 +6,8 @@
 
 body{    
     background: url('./asset/image/back.png') no-repeat;
-    background-size: cover;    
+    background-size: cover;   
+    min-height: 100vh;
 }
 
 header{
